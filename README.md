@@ -3,8 +3,8 @@
 ##### CIS531: Problem-Solving with Machine Learning
 
 In this project, I implemented k-NN to classify images of faces: 
-- Found the nearest neighbors, 
-- Calulated absolute loss, 
-- Performed k-NN classification on a data set, 
-- And calculated the accuracy of the classifier. 
+1. Found the nearest neighbors
+2. Calulated absolute loss 
+3. Performed k-NN classification on a data set
+4. Calculated the accuracy of the classifier 
 
